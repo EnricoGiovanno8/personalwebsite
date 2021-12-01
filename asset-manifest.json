@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/personalwebsite/static/css/main.2a176f4e.chunk.css",
+    "main.js": "/personalwebsite/static/js/main.ec28570f.chunk.js",
+    "main.js.map": "/personalwebsite/static/js/main.ec28570f.chunk.js.map",
+    "runtime-main.js": "/personalwebsite/static/js/runtime-main.49ec42c7.js",
+    "runtime-main.js.map": "/personalwebsite/static/js/runtime-main.49ec42c7.js.map",
+    "static/js/2.aa72e921.chunk.js": "/personalwebsite/static/js/2.aa72e921.chunk.js",
+    "static/js/2.aa72e921.chunk.js.map": "/personalwebsite/static/js/2.aa72e921.chunk.js.map",
+    "index.html": "/personalwebsite/index.html",
+    "static/css/main.2a176f4e.chunk.css.map": "/personalwebsite/static/css/main.2a176f4e.chunk.css.map",
+    "static/js/2.aa72e921.chunk.js.LICENSE.txt": "/personalwebsite/static/js/2.aa72e921.chunk.js.LICENSE.txt",
+    "static/media/CSS.d7ea2a9c.png": "/personalwebsite/static/media/CSS.d7ea2a9c.png",
+    "static/media/HTML.3d46777d.png": "/personalwebsite/static/media/HTML.3d46777d.png",
+    "static/media/JavaScript.029db7d4.png": "/personalwebsite/static/media/JavaScript.029db7d4.png",
+    "static/media/KanyeQuoteGenerator.7f1013dc.JPG": "/personalwebsite/static/media/KanyeQuoteGenerator.7f1013dc.JPG",
+    "static/media/MongoDB.626ce62f.png": "/personalwebsite/static/media/MongoDB.626ce62f.png",
+    "static/media/PharmacyPorto.7e96d433.JPG": "/personalwebsite/static/media/PharmacyPorto.7e96d433.JPG",
+    "static/media/Profile Photo.cf489a5d.jpg": "/personalwebsite/static/media/Profile Photo.cf489a5d.jpg",
+    "static/media/Purwadhika.65101dbf.jpg": "/personalwebsite/static/media/Purwadhika.65101dbf.jpg",
+    "static/media/React Native.fad73e03.png": "/personalwebsite/static/media/React Native.fad73e03.png",
+    "static/media/ReactJS.f2cd161c.png": "/personalwebsite/static/media/ReactJS.f2cd161c.png",
+    "static/media/SMA XAV 1.f879ed51.jpg": "/personalwebsite/static/media/SMA XAV 1.f879ed51.jpg",
+    "static/media/UPH.9ea9db7d.jpg": "/personalwebsite/static/media/UPH.9ea9db7d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49ec42c7.js",
+    "static/js/2.aa72e921.chunk.js",
+    "static/css/main.2a176f4e.chunk.css",
+    "static/js/main.ec28570f.chunk.js"
+  ]
+}
