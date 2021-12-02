@@ -30,7 +30,7 @@ const App = () => {
       <div style={{ borderBottom: '1px solid #D3D3D3'}}>
         <div style={styles.aboutMeDiv}>
           <h3 id="about-me" style={{ margin: '5vh 0 0', textAlign: 'center'}}>About Me</h3>
-          <p style={styles.aboutMe}>My friends usually call me Rico. I’m a Bachelor of Civil Engineering, but after graduating I've decided not to pursue a career in Civil Engineering. One of the reasons is because while I was studying, my lecturer taught me how things work in the civil engineering industry and I didn't like it. Another reason is while I was finishing my study, the pandemic hit and I’ve started to realise that if I want to make an impact on society in this digital era, I've got to learn some digital skills.</p>
+          <p style={styles.aboutMe}>My friends usually call me Rico. I’m a Bachelor of Civil Engineering, but after graduating I've decided not to pursue a career in Civil Engineering. The reason is while I was finishing my study, the pandemic hit and I’ve started to realise that if I want to make an impact on society in this digital era, I've got to learn some digital skills.</p>
           <p style={{...styles.aboutMe, margin: '0 10vh 5vh'}}>After doing some research, I’ve decided to take Web and Mobile Development Bootcamp at Purwadhika Digital Technology School. I really enjoyed my time learning how to make and develop websites, and I’m currently looking for a job as a Web Developer so that i can grow and make an impact on this society.</p>
         </div>
       </div>
