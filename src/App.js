@@ -57,6 +57,7 @@ const App = () => {
         <h6><a style={styles.contactText} href="https://wa.me/+628119332809/"><i class="fab fa-whatsapp"></i> Whatsapp</a></h6>
         <h6><a style={styles.contactText} href="https://www.linkedin.com/in/enrico-giovanno-a4803717a/"><i class="fab fa-linkedin"></i> LinkedIn</a></h6>
         <h6><a style={styles.contactText} href="mailto:genrico189@gmail.com"><i class="far fa-envelope"></i> Email</a></h6>
+        <h6><a style={styles.contactText} href="https://github.com/EnricoGiovanno8"><i class="fab fa-github"></i> GitHub</a></h6>
       </div>
     </div>
   )
