@@ -7,7 +7,11 @@ import {
     ReactJS,
     ReactNative,
     MySQL,
-    MongoDB
+    MongoDB,
+    NextJS,
+    TailwindCSS,
+    Apollo,
+    TypeScript
 } from '../assets'
 
 import {
@@ -17,16 +21,22 @@ import {
 const Skill = () => {
     return (
         <div>
-            <div style={{...styles.div, marginBottom: '5vh'}}>
-                <Image  style={styles.image} src={HTML} />
-                <Image  style={styles.image} src={CSS} />
-                <Image  style={styles.image} src={JavaScript} />
-                <Image  style={styles.image} src={ReactJS} />
+            <div style={{ ...styles.div, marginBottom: '5vh' }}>
+                <Image style={styles.image} src={HTML} />
+                <Image style={styles.image} src={CSS} />
+                <Image style={styles.image} src={JavaScript} />
+                <Image style={styles.image} src={TypeScript} />
+                <Image style={styles.image} src={ReactJS} />
+            </div>
+            <div style={{ ...styles.div, marginBottom: '5vh' }}>
+                <Image style={styles.image} src={ReactNative} />
+                <Image style={styles.image} src={MySQL} />
+                <Image style={{ height: '10vw' }} src={MongoDB} />
             </div>
             <div style={styles.div}>
-                <Image  style={styles.image} src={ReactNative} />
-                <Image  style={styles.image} src={MySQL} />
-                <Image  style={{ height: '10vw' }} src={MongoDB} />
+                <Image style={{ height: '10vw' }} src={NextJS} />
+                <Image style={{ height: '10vw' }} src={TailwindCSS} />
+                <Image style={{ height: '10vw' }} src={Apollo} />
             </div>
         </div>
     )
