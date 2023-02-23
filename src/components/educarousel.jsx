@@ -13,18 +13,18 @@ import {
 const EduCarousel = () => {
     const [edu] = useState(
         [
-            { 
-                schoolImg: Purwadhika, 
+            {
+                schoolImg: Purwadhika,
                 yearGrad: "2021",
                 schoolName: "Purwadhika Digital Technology School, Web and Mobile Development Bootcamp",
             },
             {
-                schoolImg: UPH, 
+                schoolImg: UPH,
                 yearGrad: "2020",
                 schoolName: "Pelita Harapan University, Faculty of Science and Technology"
             },
             {
-                schoolImg: SMAXav, 
+                schoolImg: SMAXav,
                 yearGrad: "2016",
                 schoolName: "Xaverius 1 High School Jambi, Natural Science Program"
             }
@@ -34,12 +34,12 @@ const EduCarousel = () => {
     return (
         <Carousel variant="dark" fade style={styles.carousel}>
             {edu.map((item, index) => {
-                return(
+                return (
                     <Carousel.Item interval={2000} key={index} style={styles.carItem}>
                         <img
-                        style={styles.carImg}
-                        src={item.schoolImg}
-                        alt={item.schoolName}
+                            style={styles.carImg}
+                            src={item.schoolImg}
+                            alt={item.schoolName}
                         />
                         <h3>{item.yearGrad}</h3>
                         <p>{item.schoolName}</p>

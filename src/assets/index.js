@@ -1,4 +1,4 @@
-import Photo from './Profile Photo.jpg'
+import Photo from './Profile.jpeg'
 import Purwadhika from './Purwadhika.jpg'
 import UPH from './UPH.jpg'
 import SMAXav from './SMA XAV 1.jpg'
@@ -11,6 +11,13 @@ import MySQL from './MySQL.png'
 import MongoDB from './MongoDB.png'
 import PharmacyPorto from './PharmacyPorto.JPG'
 import Kanye from './KanyeQuoteGenerator.JPG'
+import IAMI from './IAMI.png'
+import YummySA from './YummySA.png'
+import Avanz from './Avanz.png'
+import Apollo from './Apollo.png'
+import NextJS from './NextJS.png'
+import TailwindCSS from './TailwindCSS.jpeg'
+import TypeScript from './TypeScript.png'
 
 export {
     Photo,
@@ -25,5 +32,12 @@ export {
     MySQL,
     MongoDB,
     PharmacyPorto,
-    Kanye
+    Kanye,
+    IAMI,
+    YummySA,
+    Avanz,
+    Apollo, 
+    TailwindCSS,
+    NextJS,
+    TypeScript
 }
