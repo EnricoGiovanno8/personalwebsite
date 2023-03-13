@@ -53,6 +53,7 @@ const App = () => {
                     <Project />
                 </div>
             </div>
+            {/* <iframe title='twitch' src="https://player.twitch.tv/?channel=xqc&parent=enricogiovanno8.github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe> */}
             <div id="contact" style={styles.contact}>
                 <h6><a style={styles.contactText} href="https://www.instagram.com/enrico_giovanno/"><i class="fab fa-instagram"></i> Instagram</a></h6>
                 <h6><a style={styles.contactText} href="https://wa.me/+628119332809/"><i class="fab fa-whatsapp"></i> Whatsapp</a></h6>
